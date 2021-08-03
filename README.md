@@ -10,7 +10,7 @@ Open the Mongoose Server in the terminal.
 ```
 mongo
 ```
-Install all the dependencies in node server
+Install all the dependencies in node server in another terminal.
 ```
 npm install
 ```
