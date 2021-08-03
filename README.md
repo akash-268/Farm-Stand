@@ -5,4 +5,16 @@ First Clone this repository
 ```
 $ git clone https://github.com/akash-268/Farm-Stand.git
 ```
-Make sure you have [nodejs](https://nodejs.org/en/) [npm](https://www.npmjs.com/) and [mongoDB](https://www.npmjs.com/) installed in your system.
+Make sure you have [nodejs](https://nodejs.org/en/), [npm](https://www.npmjs.com/) and [mongoDB](https://www.npmjs.com/) installed in your system.
+Open the Mongoose Server in the terminal.
+```
+mongo
+```
+Install all the dependencies in node server
+```
+npm install
+```
+Now run it
+```
+nodemon index.js
+```
